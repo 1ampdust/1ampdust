@@ -1,12 +1,13 @@
 <h1>This «project» is in progress...  🛠️</h1>
+
 ### Hi there, I'm Mykyta(Nikita) 👋
 
-🔭 Exploring **new tech stacks and building creative solutions**
-🌱 Learning **as much as I can from the dev community**
-🤔 Striving to improve **my time management skills as a developer**
-📫 Connect with me: **lampdust06@gmail.com**
+- 🔭 Exploring **new tech stacks and building creative solutions**
+- 🌱 Learning **as much as I can from the dev community**
+- 🤔 Striving to improve **my time management skills as a developer**
+- 📫 Connect with me: **lampdust06@gmail.com**
 
-**I believe that learning never stops – every day brings something new!⚡**
+<h2>I believe that learning never stops – every day brings something new!⚡**</h2>
 
 ### My stack
 
